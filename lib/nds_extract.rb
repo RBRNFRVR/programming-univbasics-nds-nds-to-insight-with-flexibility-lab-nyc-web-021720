@@ -42,8 +42,6 @@ def movies_with_director_key(name, movies_collection)
     num += 1
   end
    p updated_movies
-
-end;
 end
 
 
